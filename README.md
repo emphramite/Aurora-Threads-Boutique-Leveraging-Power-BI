@@ -10,3 +10,11 @@ Analysed Aurora Threads retail sales data using Power BI by cleaning, transformi
 - <a href="https://app.powerbi.com/view?r=eyJrIjoiZDEyM2MwYjQtMmE2Zi00YzcxLTk4MzgtMzNmMjAyNTVlOTNhIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9">Dasbaord View</a>
 
 ## Key Insights
+
+# Business Recommendations
+
+# Business Impacts
+
+
+https://github.com/emphramite/Aurora-Threads-Boutique-Leveraging-Power-BI/blob/main/AURORA%20THREADS%20BOUTIQUE.png
+
